@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboard version="1">
+    <commands>
+        <key command="SaveFileCopyAs" shortcut="Ctrl+Alt+Shift+S" removed="true"/>
+        <key command="SaveFileCopyAs" shortcut="Shift+E" removed="true"/>
+        <key command="SaveFileCopyAs" shortcut="Ctrl+E"/>
+        <key command="ExportSpriteSheet" shortcut="Ctrl+E" removed="true"/>
+        <key command="ExportSpriteSheet" shortcut="Shift+E"/>
+        <key command="AdvancedMode" shortcut="Ctrl+F" removed="true"/>
+        <key command="Redo" shortcut="Ctrl+R" removed="true"/>
+        <key command="Copy" shortcut="Ctrl+Ins" removed="true"/>
+        <key command="Copy" shortcut="C" removed="true"/>
+        <key command="Copy" shortcut="Ctrl+C"/>
+        <key command="Fill" shortcut="F" removed="true"/>
+        <key command="Fill" shortcut="Shift+F" removed="true"/>
+        <key command="Fill" shortcut="Ctrl+F"/>
+        <key command="CanvasSize" shortcut="C" removed="true"/>
+        <key command="LayerVisibility" shortcut="Shift+X" removed="true"/>
+        <key command="OpenGroup" shortcut="Shift+E" removed="true"/>
+        <key command="FrameProperties" shortcut="P" removed="true">
+            <param name="frame" value="current"/>
+        </key>
+        <key command="FrameProperties" shortcut="Shift+F" removed="true">
+            <param name="frame" value="current"/>
+        </key>
+        <key command="FrameProperties" shortcut="F">
+            <param name="frame" value="current"/>
+        </key>
+        <key command="ShowGrid" shortcut="Ctrl+&apos;" removed="true"/>
+        <key command="ShowGrid" shortcut="G"/>
+        <key command="SnapToGrid" shortcut="Shift+S" removed="true"/>
+        <key command="SnapToGrid" shortcut="Shift+X" removed="true"/>
+        <key command="SnapToGrid" shortcut="X" removed="true"/>
+        <key command="SwitchColors" shortcut="X"/>
+        <key command="NewBrush" shortcut="Ctrl+B" removed="true"/>
+        <key command="GridSettings" shortcut="G" removed="true"/>
+        <key command="GridSettings" shortcut="Ctrl+G"/>
+        <key command="Rotate" shortcut="Ctrl+9">
+            <param name="angle" value="90"/>
+            <param name="target" value="mask"/>
+        </key>
+    </commands>
+    <tools>
+        <key tool="rectangular_marquee" shortcut="M" removed="true"/>
+        <key tool="rectangular_marquee" shortcut="Ctrl+R"/>
+        <key tool="elliptical_marquee" shortcut="Shift+M" removed="true"/>
+        <key tool="elliptical_marquee" shortcut="Shift+C" removed="true"/>
+        <key tool="elliptical_marquee" shortcut="Ctrl+C" removed="true"/>
+        <key tool="pencil" shortcut="B" removed="true"/>
+        <key tool="pencil" shortcut="P"/>
+        <key tool="move" shortcut="V" removed="true"/>
+        <key tool="move" shortcut="M"/>
+        <key tool="slice" shortcut="Shift+C" removed="true"/>
+        <key tool="paint_bucket" shortcut="G" removed="true"/>
+        <key tool="paint_bucket" shortcut="Shift+B" removed="true"/>
+        <key tool="paint_bucket" shortcut="Ctrl+Shift+Space+B" removed="true"/>
+        <key tool="paint_bucket" shortcut="Ctrl+B" removed="true"/>
+        <key tool="paint_bucket" shortcut="B"/>
+        <key tool="ellipse" shortcut="Shift+U" removed="true"/>
+        <key tool="ellipse" shortcut="Shift+C"/>
+    </tools>
+    <quicktools/>
+    <actions/>
+    <wheel/>
+    <drag/>
+</keyboard>
